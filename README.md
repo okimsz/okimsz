@@ -21,20 +21,10 @@
 
 * **Facebook:** [fb.com/mikolas06](https://facebook.com/mikolas06)
 * **Instagram:** [@okim_z1](https://instagram.com/okim_z1)
+* **LinkedIn:** (https://www.linkedin.com/in/mico-alano-235451360/)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okimsz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=okimsz&theme=dark&hide_border=false" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okimsz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="60%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=okimsz&icon=0&color=13" alt="Visitor Count" />
-</div>
+--
